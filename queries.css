@@ -1,0 +1,14 @@
+@media (max-width: 45em) {
+  html {
+    font-size: 45%;
+  }
+  .key-matrics {
+    flex-direction: column;
+  }
+  .asset-container {
+    grid-template-columns: 1fr 1fr;
+  }
+  .prdct-dtl {
+    gap: 2rem;
+  }
+}
